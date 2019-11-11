@@ -81,7 +81,7 @@ defaults:
   # Posts defaults
   # _posts 경로 설정
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: post
